@@ -1,0 +1,137 @@
+.h1 {
+    color: azure;
+    background-color: rgb(5, 80, 141);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: 1400px;
+}
+
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #f8f8f8;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+.menu ul {
+    text-align: center;
+    background-color: rgb(75, 105, 194);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1400px;
+    margin: auto;
+    font-size: x-large;
+}
+h2 {
+    color: azure;
+    background-color: rgb(149, 53, 238);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1400px;
+    font-size: xx-large;
+}
+.sub_menu ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+    background-color: rgb(80, 101, 221);
+}
+.sub_menu ul {
+    text-align: center;
+    background-color: rgb(75, 105, 194);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: x-large;
+}
+.sub_menu ul li a{
+    text-decoration: none;
+    color: #f8f8f8;
+    box-shadow: inset;
+}
+.burger ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.burger ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
+.bar ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.bar ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
+.rice ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.rice ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
+.top ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.top ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
+.deals ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.deals ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
+.other ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.other ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    font-size: xx-large;
+}
